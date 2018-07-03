@@ -10,7 +10,7 @@ body{
 	font-size:13px;
 	line-height:1.5em;
 	color:#9600B1;
-	background-color: #3FF;  
+	background-color: #3FF  
 }
 
 .clearfix{
@@ -123,16 +123,16 @@ button#next{
 
 #playlist li.active {
     font-weight: bold;
-	padding:px;
-	background: #D8FF00;
+	padding:3px;
+	background:#D8FF00;
 }
 
 #progressBar { 
    width:80%;
-   margin-left:1%;
+   margin-left:2%;
    margin-bottom:20px;
    margin-top:9px;
-   height:5px;
+   height:10px;
    background: url(../images/progress_bg.png) no-repeat;
    float:left;
 }
@@ -141,11 +141,10 @@ button#next{
    background: url(../images/progress.png) no-repeat;
    height:10px;
    display:inline-block;
-   float:left;
 }
 
 #duration{
-	position: absolute;
+	position:absolute;
 	top:0;
 	right:10px;
 	padding:4px 8px;
