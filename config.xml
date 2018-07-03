@@ -33,6 +33,9 @@
  
  <!-- Colocar icono app -->
  <icon src="res/android/mdpi.png"/>
+ 
+  <!-- plugin audio -->
+  <plugin name="cordova-plugin-media" spec="https://github.com/apache/cordova-plugin-media.git" />
 
  <!--<preference name="permissions" value="INTERNET"/>-->
  <!--Para accesar a paginas en internet-->
