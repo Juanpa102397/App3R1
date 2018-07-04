@@ -5,14 +5,14 @@
      id    = "com.phonegap.app10"  
      version  = "1.0.0">  
 	 
-   <name>app3R-2018 Reproductor audio </name>
+   <name>app3R Reproductor audio </name>
 
     <description>
         Utiliza Plugins de audio para reproducir archivo mp3
     </description>
 
-   <author href="https://build.phonegap.com" email="micorreo@gmail.com">  
-       José Antonio Gomez Hernandez
+   <author href="https://build.phonegap.com" email="juanpa.torres.m9237@gmail.com">  
+       Juan Pablo Torres Miscoac 
    </author>  
     
    <!-- Personaliza la aplicacion y plataforma  -->  
